@@ -18,6 +18,7 @@ Integrate LLM chat GPT to create a quiz for user to asnwer, some simple question
  - React
  - Axios
  - MUI
+ - cors
 
 ### Backend
  - Node.js
@@ -40,12 +41,9 @@ cd planetX
 cd backend
 npm install
 ```
-### Create .env file in Backend to store your API Key from NASA
+###  - Create .env file in Backend to store your API Key from NASA
+###  - Good to develop!
 
-### React initialisation (Frontend)
-
-# Usage
-# Screenshots
 # Acknowledgements
  - NASA Open API
  - OpenAI
@@ -54,6 +52,6 @@ npm install
  - Medium
 # Author
  - Name: Panitan Sripoom
- - LinkedIn
- - GitHub
+ - LinkedIn https://www.linkedin.com/in/panitan-sripoom/
+ - GitHub https://github.com/MonPanitan
 
